@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm looking to collaborate on Open-source projects and MERN stack applications.<br>I'm looking for help with Improving my UI skills, exploring advanced backend concepts, and optimizing performance in web apps<br>I'm currently learning Next.js.<br>Ask me about Node.Js, Javascript, React, MongoDB and Express.<br>Fun Fact: I love reading Medival History.
+
 
 
 ## 🌐 Socials:
